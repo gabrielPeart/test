@@ -1,99 +1,123 @@
 {
 	"functions": [{
 			"id": 1,
-			"title": "Au Gratin"
+			"title": "Au Gratin",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/01_auGratin.png"
 		},
 		{
 			"id": 2,
-			"title": "Bottom Heat"
+			"title": "Bottom Heat",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/02_bottomHeat.png"
 		},
 		{
 			"id": 3,
-			"title": "Conventional Cooking"
+			"title": "Conventional Cooking",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/03_topBottomHeat.png"
 		},
 		{
 			"id": 4,
-			"title": "Frozen Foods"
+			"title": "Frozen Foods",
+			"image": "https://github.com/gabrielPeart/test/blob/master/04_frozenFood.png"
 		},
 		{
 			"id": 5,
-			"title": "Pizza Function"
+			"title": "Pizza Function",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/05_pizzaSetting.png"
 		},
 		{
 			"id": 6,
-			"title": "Bread Baking"
+			"title": "Bread Baking",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/06_breadBaking.png"
 		},
 		{
 			"id": 7,
-			"title": "Defrost"
+			"title": "Defrost",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/07_defrost.png"
 		},
 		{
 			"id": 8,
-			"title": "Dough Proving"
+			"title": "Dough Proving",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/08_doughProving.png"
 		},
 		{
 			"id": 9,
-			"title": "Dehydrating"
+			"title": "Dehydrating",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/09_drying.png"
 		},
 		{
 			"id": 10,
-			"title": "Full Steam"
+			"title": "Full Steam",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/10_fullSteam.png"
 		},
 		{
 			"id": 11,
-			"title": "Grill"
+			"title": "Grill",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/11_grilling.png"
 		},
 		{
 			"id": 12,
-			"title": "Turbo Grilling"
+			"title": "Turbo Grilling",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/12_turboGrilling.png"
 		},
 		{
 			"id": 13,
-			"title": "Humidity High"
+			"title": "Humidity High",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/13_highSteam.png"
 		},
 		{
 			"id": 14,
-			"title": "Keep Warm"
+			"title": "Keep Warm",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/14_keepWarm.png"
 		},
 		{
 			"id": 15,
-			"title": "Humidity Low"
+			"title": "Humidity Low",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/15_lowSteam.png"
 		},
 		{
 			"id": 16,
-			"title": "Humidity Medium"
+			"title": "Humidity Medium",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/16_medSteam.png"
 		},
 		{
 			"id": 17,
-			"title": "Moist Fan Baking"
+			"title": "Moist Fan Baking",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/17_moistFanBaking.png"
 		},
 		{
 			"id": 18,
-			"title": "Plate Warming"
+			"title": "Plate Warming",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/18_plateWarm.png"
 		},
 		{
 			"id": 19,
-			"title": "Preserving"
+			"title": "Preserving",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/19_preserving.png"
 		},
 		{
 			"id": 20,
-			"title": "Steam Regenerating"
+			"title": "Steam Regenerating",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/20_regeneratingSteam.png"
 		},
 		{
 			"id": 21,
-			"title": "Slow Cooking"
+			"title": "Slow Cooking",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/21_slowCooking.png"
 		},
 		{
 			"id": 22,
-			"title": "True Fan Cooking"
+			"title": "True Fan Cooking",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/22_fanCooking.png"
 		},
 		{
 			"id": 23,
-			"title": "Yoghurt Function"
+			"title": "Yoghurt Function",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/23_youghurtFunction.png"
 		},
 		{
 			"id": 24,
-			"title": "Steamify"
+			"title": "Steamify",
+			"image": "https://raw.githubusercontent.com/gabrielPeart/test/master/24_steamify.png"
 		}
 	],
 	"details": [{
